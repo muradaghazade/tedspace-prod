@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-u9!6w%y#otod3k54h^=+(t*&_)lpa3&c--fmb+9rt&^01%)+d$
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['51.21.219.2', 'tedspace.ai', 'www.tedspace.ai',]
 
 
 # Application definition
