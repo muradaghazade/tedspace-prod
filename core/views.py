@@ -15,9 +15,9 @@ def home(request):
             email = form.cleaned_data.get('email')
             send_mail(
                 'New Contact Form Submission',
-                f'You have a new contact form submission from {name} {surname}, email: {email}.\n\n http://127.0.0.1:8000/admin/core/contact/{data.id}/change/',
+                f'You have a new contact form submission from {name} {surname}, email: {email}.\n\n http://51.21.219.2/admin/core/contact/{data.id}/change/',
                 'murad.aghazada@div.edu.az',
-                ['murad.aghazada@div.edu.az'],
+                ['murad.aghazada@div.edu.az', 'bakhtiyar@tedroid.com', 'tariyel@tedroid.com'],
                 fail_silently=False,
             )
             send_mail(
