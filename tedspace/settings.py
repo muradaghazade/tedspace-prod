@@ -136,3 +136,10 @@ email_USE_SSL = False
 EMAIL_HOST_USER = "ali.jafarly.025@gmail.com"
 EMAIL_HOST_PASSWORD = "qgez zbrp lwyd zsov"
 DEFAULT_FROM_EMAIL = EMAIL_HOST_USER
+
+CSRF_TRUSTED_ORIGINS = [
+    'https://tedspace.ai',
+    'https://www.tedspace.ai',
+    'https://tedspace.bamper.site',
+    'https://www.tedspace.bamper.site',
+]
