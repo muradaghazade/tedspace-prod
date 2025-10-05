@@ -1,0 +1,164 @@
+@media (min-width:320px) and (max-width: 480px) {
+   .img4{
+    margin-right: 0px !important;
+   }
+    .samsung-mobil {
+        width: 100%;
+    }
+    .navbar {
+      width: 1260px !important;
+    }
+    .navimg {
+      width: 1260px !important;
+    }
+    .imgnav {
+      margin-top: -70px !important;
+    }
+    .navbar-toggler-icon {
+      border: 1px solid white !important;
+    }
+
+    .a {
+      margin-top: -55px !important;
+      margin-left: -370px !important;
+    }
+    .a2 {
+      margin-top: -25px !important;
+      margin-left: -200px !important;
+    }
+
+    
+
+
+    
+
+    .navbar-toggler {
+      margin-top: -80px;
+    }
+    .divr {
+      width: 1260px;
+    }
+    .dive {
+      width: 1260px;
+    }
+    .divi {
+      width: 1260px !important;
+    }
+    .divk {
+      width: 1260px !important;
+    }
+    .divj {
+      width: 1260px !important;
+    }
+    .divh {
+      width: 1260px !important;
+    }
+    .divg {
+      width: 1260px !important;
+    }
+    .divf {
+      width: 1260px !important;
+    }
+    .divd {
+      width: 1260px !important;
+    }
+    .img2 {
+      width: 1000px !important;
+    }
+    .hr {
+      width: 1190px !important;
+      margin-top: 0px !important;
+    }
+
+    .p3 {
+      width: 350px;
+    }
+
+    .class3 {
+      margin-left: 10px;
+    }
+
+
+
+}
+
+@media (min-width:600px) and (max-width: 1020px) {
+    .img4{
+    margin-right: 0px !important;
+   }
+    .samsung-mobil {
+        width: 100%;
+    }
+    .navbar {
+      width: 1260px !important;
+    }
+    .navimg {
+      width: 1260px !important;
+    }
+    .imgnav {
+      margin-top: -70px;
+    }
+    .navbar-toggler-icon {
+      border: 1px solid white !important;
+    }
+
+    .a {
+      margin-top: -55px !important;
+      margin-left: -370px !important;
+    }
+    .a2 {
+      margin-top: -25px !important;
+      margin-left: -200px !important;
+    }
+
+
+    
+
+    .navbar-toggler {
+      margin-top: -80px;
+    }
+    .divr {
+      width: 1260px;
+    }
+    .dive {
+      width: 1260px;
+    }
+    .divi {
+      width: 1260px !important;
+    }
+    .divk {
+      width: 1260px !important;
+    }
+    .divj {
+      width: 1260px !important;
+    }
+    .divh {
+      width: 1260px !important;
+    }
+    .divg {
+      width: 1260px !important;
+    }
+    .divf {
+      width: 1260px !important;
+    }
+    .divd {
+      width: 1260px !important;
+    }
+    .img2 {
+      width: 1000px !important;
+    }
+    .hr {
+      width: 1190px !important;
+      margin-top: 0px !important;
+    }
+
+    .p3 {
+      width: 350px;
+    }
+
+    .class3 {
+      margin-left: 10px;
+    }
+
+    
+}
